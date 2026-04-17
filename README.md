@@ -1,4 +1,4 @@
-# 🐄 PashuRakshak_AI – (Early Disease Detection for Cattle)
+# 🐄 PashuRakshak_AI – Early Disease Detection for Cattle
 
 ## 🚀 Overview
 
@@ -50,7 +50,7 @@ PashuRakshak_AI uses **computer vision and AI** to:
 ## 📂 Project Structure
 
 ```id="1h7j3x"
-livestock-disease-ai/
+pashurakshak-ai/
 │
 ├── backend/        # Flask API + Model
 ├── frontend/       # Mobile/Web App
